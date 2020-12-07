@@ -1,4 +1,4 @@
-HttpsbaseURL = "https://fauzanjantung.github.io/"
+baseURL = "https://fauzanjantung.github.io/"
 title = "Fauzan Fathurrahman"
 googleAnalytics = "UA-123-456-789"
 theme = "github-style"
