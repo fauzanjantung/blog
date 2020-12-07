@@ -20,6 +20,11 @@ https://play.google.com/store/apps/details?id=com.ojk.sikepo
 {{< foldergallery src="images/sikepo" >}}
 
 ## Web
+### Eiga
+IMDB Style Movie Web in React
+
+https://github.com/fauzanjantung/eiga
+{{< foldergallery src="images/eiga" >}}
 ### Laravel CMS https://github.com/fauzanjantung/laravel-cms
 ### Laravel Forum
 
