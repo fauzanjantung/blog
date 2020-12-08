@@ -10,14 +10,35 @@ summary: "Hello! This post is a list of my portfolio as a QA and as a Developer"
 ## Quality Assurance
 ### Digital Agent Onboarding Zurich (EaZi)
 Digital Agent Onboarding Zurich (EaZi). Apps for registering a new insurance agents for Zurich Indonesia. 
+
+Tools: 
+- JIRA
+- Google Spreadsheet
+- Microsoft Word
+
 https://play.google.com/store/apps/details?id=com.zurich.aos
 
 {{< foldergallery src="images/eazi" >}}
 
 ### SIKePO OJK Mobile App
 Online Banking Provisions Information System / Sistem Informasi Ketentuan Perbankan Online (SIKePO)
+
+Tools:
+- Trello
+- Swagger
+- Katalon Studio
+- Cucumber BDD Framework
+- Appium
+- Selenium
+- Google Spreadsheet
+- Microsoft Word
+- PicklesUI
+
 https://play.google.com/store/apps/details?id=com.ojk.sikepo
 {{< foldergallery src="images/sikepo" >}}
+
+### Merck
+### Prixa.ai
 
 ## Web
 ### Eiga
@@ -25,11 +46,15 @@ IMDB Style Movie Web in React
 
 https://github.com/fauzanjantung/eiga
 {{< foldergallery src="images/eiga" >}}
-### Laravel CMS https://github.com/fauzanjantung/laravel-cms
+### Laravel CMS 
+https://github.com/fauzanjantung/laravel-cms
 ### Laravel Forum
+### Binus Riset Hibah
+
 
 ## Chatbot
-### Sophie Paris Chatbot https://sophieparis.com
+### Sophie Paris Chatbot 
+https://sophieparis.com
 {{< foldergallery src="images/sophie" >}}
 
 
@@ -43,7 +68,6 @@ Line ID : http://line.me/ti/p/~@215jrvuq
 Movia will help you to find any movies with her knowledge.
 http://line.me/ti/p/~@962vksgb
 
-### Merck
 ### Hero - Chatbot for HR Industry
 {{< foldergallery src="images/hr" >}}
 
