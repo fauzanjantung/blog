@@ -13,6 +13,7 @@ Digital Agent Onboarding Zurich (EaZi). Apps for registering a new insurance age
 
 Tools: 
 - JIRA
+- Swagger
 - Google Spreadsheet
 - Microsoft Word
 
@@ -37,7 +38,15 @@ Tools:
 https://play.google.com/store/apps/details?id=com.ojk.sikepo
 {{< foldergallery src="images/sikepo" >}}
 
-### Merck
+### Merck Indonesia
+
+Tools: 
+- JIRA
+- Swagger
+- Google Spreadsheet
+- Microsoft Word
+
+{{< foldergallery src="images/merck" >}}
 ### Prixa.ai
 
 ## Web
@@ -49,6 +58,7 @@ https://github.com/fauzanjantung/eiga
 ### Laravel CMS 
 https://github.com/fauzanjantung/laravel-cms
 ### Laravel Forum
+https://github.com/fauzanjantung/forum
 ### Binus Riset Hibah
 
 
@@ -66,25 +76,28 @@ Line ID : http://line.me/ti/p/~@215jrvuq
 
 ### Movia
 Movia will help you to find any movies with her knowledge.
+
 http://line.me/ti/p/~@962vksgb
+{{< foldergallery src="images/movia" >}}
 
 ### Hero - Chatbot for HR Industry
 {{< foldergallery src="images/hr" >}}
 
 ### Bekraf/Kemenparekraf & Nyatakan.id Chatbot
-### Hara
+{{< foldergallery src="images/banper" >}}
 ### Chatbot X Arduino
+{{< foldergallery src="images/relay" >}}
 ### Meikan
 {{< foldergallery src="images/meikan" >}}
 
 ### Madoka
 ### COVID-19 Bot
+Demo: https://www.youtube.com/watch?v=froxxES-_0U
 {{< foldergallery src="images/covid" >}}
 
 ### Skilla - Kemnaker Chatbot
 ### Mira - Mitsubishi
 ### Kemendagri
-### Hanji-san : Kanji Chatbot
+### Kanji Chatbot
+Demo: https://www.youtube.com/watch?v=dAJ2rmeRoQ8
 {{< foldergallery src="images/kanji" >}}
-
-### Faiz
